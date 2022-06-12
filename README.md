@@ -1,2 +1,2 @@
 # Flower-css
-A repo for my flower css-js project
+This Project contains flowers and annimations made in CSS and JS.  The goal of this prject is to have a resume ready flower-garden annimation ready for my resume.  The projects features two parts the main flower wich includes 6 petals all of which are placed realativly and a second part that is placed absoulutly that includes two petals and the core of the flower.  The second components is positioned absoulutly so insure proper refelection over the Y axis.
